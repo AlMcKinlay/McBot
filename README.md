@@ -1,14 +1,12 @@
-# porygon-bot
-An IRC bot created by the /r/pokemontrades team for our use.
+# YaManicBot
+
+I wanted a bot to do some things that I want. 
+
+I decided to fork pokemontrades/porygon-bot because I knew how it works and it already worked well with IRC. 
 
 ## Features
-* High Five
-* .msg
-* .checkball
-* .checkfc
-* Logging reported items from reddit
-* Manipulating reddit toolbox usernotes
-* Shortcuts
+
+(todo once I have features different from porygon-bot)
 
 ## Pre-requisites
 
